@@ -11,7 +11,7 @@ the four pillars of OO:
 
 ## Homework 1
 
-    Enter Name: ___________________________________
+    Enter Name: Ben Javier
 
 * Get all the existing tests to pass
 * Write one extra test that tests a fight between the adventurer and the creature. You can implement this in any fashion you like.
@@ -35,3 +35,5 @@ Sometimes it is appropriate to include IDE files like .idea/, but they are never
 For this assignment, you should not have to add any files to the repository. You'll
 just have to modify the existing files and add your test and screenshot.
 
+## Breakpoint screenshot (VS Code)
+![DebuggingScreenshot.jpg](images/image.png)

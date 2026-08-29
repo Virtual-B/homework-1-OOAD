@@ -1,0 +1,71 @@
+2026.08.29 16:37:11 INFO  Started: Metals version 1.6.8 in folders 'C:\Users\steam\Downloads\SCHOOL PDFs\csci OOAD\homework-1-OOAD' for client Visual Studio Code 1.135.0.
+2026.08.29 16:37:11 INFO  Memory monitor started
+2026.08.29 16:37:12 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.08.29 16:37:12 INFO  no build target found for C:\Users\steam\Downloads\SCHOOL PDFs\csci OOAD\homework-1-OOAD\src\main\java\polymorphia\Creature.java. Using fallback presentation compiler.
+Aug 29, 2026 4:37:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2026.08.29 16:37:14 INFO  no build target found for C:\Users\steam\Downloads\SCHOOL PDFs\csci OOAD\homework-1-OOAD\src\main\java\polymorphia\Creature.java. Using fallback presentation compiler.
+2026.08.29 16:37:14 INFO  no build target found for C:\Users\steam\Downloads\SCHOOL PDFs\csci OOAD\homework-1-OOAD\src\main\java\polymorphia\Creature.java. Using fallback presentation compiler.
+2026.08.29 16:37:14 INFO  no build target found for C:\Users\steam\Downloads\SCHOOL PDFs\csci OOAD\homework-1-OOAD\src\main\java\polymorphia\Creature.java. Using fallback presentation compiler.
+2026.08.29 16:37:14 INFO  no build target found for C:\Users\steam\Downloads\SCHOOL PDFs\csci OOAD\homework-1-OOAD\src\main\java\polymorphia\Creature.java. Using fallback presentation compiler.
+2026.08.29 16:37:14 INFO  running 'C:\Users\steam\Downloads\SCHOOL PDFs\csci OOAD\homework-1-OOAD\gradlew.bat --stacktrace --console=plain --init-script C:\Users\steam\AppData\Local\Temp\metals9367201308428152135\init-script.gradle bloopInstall'
+2026.08.29 16:37:16 INFO  no build target found for C:\Users\steam\Downloads\SCHOOL PDFs\csci OOAD\homework-1-OOAD\src\main\java\polymorphia\Creature.java. Using fallback presentation compiler.
+2026.08.29 16:37:16 INFO  Starting a Gradle Daemon, 3 incompatible and 4 stopped Daemons could not be reused, use --status for details
+2026.08.29 16:37:16 INFO  no build target found for C:\Users\steam\Downloads\SCHOOL PDFs\csci OOAD\homework-1-OOAD\src\main\java\polymorphia\Creature.java. Using fallback presentation compiler.
+2026.08.29 16:37:20 INFO  no build target found for C:\Users\steam\Downloads\SCHOOL PDFs\csci OOAD\homework-1-OOAD\src\main\java\polymorphia\Creature.java. Using fallback presentation compiler.
+2026.08.29 16:37:20 INFO  no build target found for C:\Users\steam\Downloads\SCHOOL PDFs\csci OOAD\homework-1-OOAD\src\test\java\polymorphia\AdventurerTest.java. Using fallback presentation compiler.
+2026.08.29 16:37:20 INFO  no build target found for C:\Users\steam\Downloads\SCHOOL PDFs\csci OOAD\homework-1-OOAD\src\test\java\polymorphia\AdventurerTest.java. Using fallback presentation compiler.
+2026.08.29 16:37:20 INFO  no build target found for C:\Users\steam\Downloads\SCHOOL PDFs\csci OOAD\homework-1-OOAD\src\test\java\polymorphia\AdventurerTest.java. Using fallback presentation compiler.
+2026.08.29 16:37:20 INFO  no build target found for C:\Users\steam\Downloads\SCHOOL PDFs\csci OOAD\homework-1-OOAD\src\test\java\polymorphia\AdventurerTest.java. Using fallback presentation compiler.
+2026.08.29 16:37:20 INFO  no build target found for C:\Users\steam\Downloads\SCHOOL PDFs\csci OOAD\homework-1-OOAD\src\test\java\polymorphia\CreatureTest.java. Using fallback presentation compiler.
+2026.08.29 16:37:21 INFO  no build target found for C:\Users\steam\Downloads\SCHOOL PDFs\csci OOAD\homework-1-OOAD\src\test\java\polymorphia\CreatureTest.java. Using fallback presentation compiler.
+2026.08.29 16:37:20 INFO  no build target found for C:\Users\steam\Downloads\SCHOOL PDFs\csci OOAD\homework-1-OOAD\src\test\java\polymorphia\CreatureTest.java. Using fallback presentation compiler.
+2026.08.29 16:37:22 INFO  no build target found for C:\Users\steam\Downloads\SCHOOL PDFs\csci OOAD\homework-1-OOAD\src\test\java\polymorphia\CreatureTest.java. Using fallback presentation compiler.
+2026.08.29 16:37:22 INFO  no build target found for C:\Users\steam\Downloads\SCHOOL PDFs\csci OOAD\homework-1-OOAD\src\test\java\polymorphia\CreatureTest.java. Using fallback presentation compiler.
+2026.08.29 16:37:22 INFO  no build target found for C:\Users\steam\Downloads\SCHOOL PDFs\csci OOAD\homework-1-OOAD\src\main\java\polymorphia\Creature.java. Using fallback presentation compiler.
+2026.08.29 16:37:22 INFO  no build target found for C:\Users\steam\Downloads\SCHOOL PDFs\csci OOAD\homework-1-OOAD\src\main\java\polymorphia\Creature.java. Using fallback presentation compiler.
+2026.08.29 16:37:22 INFO  no build target found for C:\Users\steam\Downloads\SCHOOL PDFs\csci OOAD\homework-1-OOAD\src\main\java\polymorphia\Creature.java. Using fallback presentation compiler.
+2026.08.29 16:37:25 INFO  > Task :configureBloopInstall
+2026.08.29 16:37:25 INFO  > Task :bloopInstall
+2026.08.29 16:37:25 INFO  
+2026.08.29 16:37:25 INFO  [Incubating] Problems report is available at: file:///C:/Users/steam/Downloads/SCHOOL%20PDFs/csci%20OOAD/homework-1-OOAD/build/reports/problems/problems-report.html
+2026.08.29 16:37:25 INFO  
+2026.08.29 16:37:25 INFO  Deprecated Gradle features were used in this build, making it incompatible with Gradle 10.
+2026.08.29 16:37:25 INFO  
+2026.08.29 16:37:25 INFO  You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+2026.08.29 16:37:25 INFO  
+2026.08.29 16:37:25 INFO  For more on this, please refer to https://docs.gradle.org/9.2.1/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+2026.08.29 16:37:25 INFO  
+2026.08.29 16:37:25 INFO  BUILD SUCCESSFUL in 10s
+2026.08.29 16:37:25 INFO  2 actionable tasks: 2 executed
+2026.08.29 16:37:25 INFO  Consider enabling configuration cache to speed up this build: https://docs.gradle.org/9.2.1/userguide/configuration_cache_enabling.html
+2026.08.29 16:37:25 INFO  time: ran 'gradle bloopInstall' in 10s
+2026.08.29 16:37:25 INFO  Attempting to connect to the build server...
+2026.08.29 16:37:25 INFO  Found a Bloop server running
+2026.08.29 16:37:25 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at C:\Users\steam\Downloads\SCHOOL PDFs\csci OOAD\homework-1-OOAD\.metals\bsp.trace.json or C:\Users\steam\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.08.29 16:37:25 INFO  time: Connected to build server in 0.24s
+2026.08.29 16:37:25 INFO  Connected to Build server: Bloop v2.1.1
+2026.08.29 16:37:27 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.08.29 16:37:28 INFO  time: indexed workspace in 2.9s
+2026.08.29 16:37:29 INFO  compiling polymorphia-homework-sequence (2 java sources)
+2026.08.29 16:37:29 WARN  javac exited with exit code 1
+2026.08.29 16:37:29 INFO  time: compiled Polymorphia-Homework-Sequence in 0.73s
+2026.08.29 16:37:44 INFO  compiling polymorphia-homework-sequence (2 java sources)
+2026.08.29 16:37:44 WARN  javac exited with exit code 1
+2026.08.29 16:37:44 INFO  time: compiled Polymorphia-Homework-Sequence in 0.63s
+2026.08.29 16:37:47 INFO  compiling polymorphia-homework-sequence (2 java sources)
+2026.08.29 16:37:47 WARN  javac exited with exit code 1
+2026.08.29 16:37:47 INFO  time: compiled Polymorphia-Homework-Sequence in 0.77s
+2026.08.29 16:38:29 INFO  compiling polymorphia-homework-sequence (2 java sources)
+2026.08.29 16:38:29 WARN  javac exited with exit code 1
+2026.08.29 16:38:29 INFO  time: compiled Polymorphia-Homework-Sequence in 0.58s
+Aug 29, 2026 4:38:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 319
+2026.08.29 16:38:52 INFO  compiling polymorphia-homework-sequence (2 java sources)
+2026.08.29 16:38:52 WARN  javac exited with exit code 1
+2026.08.29 16:38:52 INFO  time: compiled Polymorphia-Homework-Sequence in 0.55s
+2026.08.29 16:38:54 INFO  compiling polymorphia-homework-sequence (2 java sources)
+2026.08.29 16:38:54 WARN  javac exited with exit code 1
+2026.08.29 16:38:54 INFO  time: compiled Polymorphia-Homework-Sequence in 0.76s
+Aug 29, 2026 4:39:15 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace

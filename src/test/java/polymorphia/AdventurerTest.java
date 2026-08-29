@@ -13,4 +13,11 @@ public class AdventurerTest {
         assertEquals("Bilbo", bilbo.getName());
         assertEquals(5.0, bilbo.getHealth());
     }
+    @Test
+    void testFight(){
+        Adventurer Legolas = new Adventurer( "Legolas", 10.0);
+        Creature Orc = new Creature("orc", 5);
+
+        assertEquals(true, Legolas.fight(Orc));
+    }
 }

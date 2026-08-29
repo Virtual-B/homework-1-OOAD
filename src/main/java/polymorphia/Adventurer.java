@@ -1,10 +1,13 @@
 package polymorphia;
 
+import java.util.Random;
+
 // import java.util.Random;
 
 public class Adventurer {
     private String name;
     private double health;
+    static Random rand = new Random();
 
     public Adventurer(String name, double initialHealth) {
         this.name = name;
@@ -25,6 +28,19 @@ public class Adventurer {
     public boolean fight(Creature foe) {
         // TODO: Implement the fight logic here
         // This is just a placeholder implementation. You should replace it with your own logic.
+        //random chance 1-10 70% chance to win on fight
+        int rand_val = rand.nextInt(10)+1;
+        if(rand_val <= 7){
+            return true;
+        }
+        //if lost, health needs to go down, and return false
+        health = health-1;
         return false;
+    }
+    public String getName(){
+        return name;
+    }
+    public double getHealth(){
+        return health;
     }
 }
